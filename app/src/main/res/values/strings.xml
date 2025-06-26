@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BioFaqih</string>
+    <string name="universitas">Universitas Yatsi Madani</string>
+    <string name="label_nama">Nama: %1$s</string>
+</resources>

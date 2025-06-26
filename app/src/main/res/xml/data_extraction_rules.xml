@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- TODO: Remove the following "include" and "exclude" elements as soon as you
+         have defined the actual list of files to be backed up. This current
+         configuration is extremely inefficient and should be points of discussion
+         for your team. -->
+    <include domain="sharedpref" path="." />
+    <exclude domain="sharedpref" path="device.xml" />
+</full-backup-content>

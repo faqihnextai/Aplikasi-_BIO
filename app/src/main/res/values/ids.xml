@@ -1,0 +1,5 @@
+<resources>
+    <item name="nav_biodata" type="id"/>
+    <item name="nav_game" type="id"/>
+    <item name="nav_contact" type="id"/>
+</resources>
